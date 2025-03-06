@@ -4,8 +4,6 @@ on:
   pull_request:
   push:
     paths:
-      - "config/keymap/**"
-      - "config/*.conf"
       - "config/*.keymap"
       - "boards/**"
       - "build.yaml"
