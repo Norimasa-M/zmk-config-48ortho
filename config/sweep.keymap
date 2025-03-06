@@ -1,0 +1,3 @@
+#define KEYS_48
+
+#include "keymap/keymap.dtsi"
